@@ -1,0 +1,351 @@
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\sg355\source\repos\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\테트리스 이식, 동작까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\테트리스 이미지까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\오브젝트 전까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\블록 리스트화 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\테트리스 합치는데 까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\리셋버튼 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\sg355\Desktop\리셋버튼, 다른 스테이지까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\3스테이지까지 구현\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\점선 추가 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\마지막블럭 해결\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\마지막블럭 해결+점선 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage4.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage4.resources
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\4스테이지 시작 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage5.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage4.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage5.resources
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\4,5 스테이지 틀 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage4.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage5.resources
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\맵끝 블럭만 남음 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage4.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage5.resources
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\스테이지 4까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage4.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage5.resources
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\스테이지 5까지 - 복사본\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage4.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage5.resources
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Decidone\Desktop\스테이지 5까지\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe.config
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.exe
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\bin\Debug\Mario_In_Tetris.pdb
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csprojAssemblyReference.cache
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Home.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Sound.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.StageButton.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.TetrisImage.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.StageMenu.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage3.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage2.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage1.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Resource.Character.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Properties.Resources.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage4.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.Stage5.resources
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.GenerateResource.cache
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.exe
+C:\Users\Jun\Desktop\강민성 김승주\Mario_In_Tetris\Mario_In_Tetris\obj\Debug\Mario_In_Tetris.pdb
